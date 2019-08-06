@@ -1,5 +1,5 @@
--- Install dependencies
-```npm install ```
+# Install dependencies
+- ```npm install ```
 
--- Run local server
-```npm run ```
+# Run local server
+- ```npm run ```
