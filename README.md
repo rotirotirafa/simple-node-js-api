@@ -1,3 +1,5 @@
+This project uses MongoDB.
+
 # Install dependencies
 - ```npm install ```
 
